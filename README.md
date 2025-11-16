@@ -1,4 +1,4 @@
-# Your Name – Cybersecurity Analyst
+# Oluwafemi Egbanubi – Cybersecurity Analyst
 
 👋 Hello! I’m Oluwafemi Egbanubi, a results-driven Cybersecurity professional with over 10 years of experience protecting cloud and on-prem infrastructures. My work focuses on threat detection, vulnerability management, and continuous security monitoring. This repository gathers the lab projects and reference guides that demonstrate my technical depth and commitment to secure-by-design principles.
 
