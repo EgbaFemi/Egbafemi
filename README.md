@@ -1,6 +1,6 @@
 # Oluwafemi Egbanubi – Cybersecurity Analyst
 
-👋 Hello! I’m Oluwafemi Egbanubi, a results-driven Cybersecurity professional with over 10 years of experience protecting cloud and on-prem infrastructures. My work focuses on threat detection, vulnerability management, and continuous security monitoring. This repository gathers the lab projects and reference guides that demonstrate my technical depth and commitment to secure-by-design principles.
+👋 Hello! I’m **Oluwafemi Egbanubi**, a results-driven Cybersecurity professional with over ten years of experience protecting cloud and on-prem infrastructures. My work focuses on threat detection, vulnerability management, and continuous security monitoring. Empowering organizations to build secure, compliant, and resilient cloud environments through structured program leadership and data-driven security operations. This repository gathers the lab projects and reference guides that demonstrate my technical depth and commitment to secure-by-design principles.
 
 ---
 
@@ -76,11 +76,5 @@
 ## Contact
 
 - **LinkedIn:** <www.linkedin.com/in/oluwafemi-egbanubi>  
-- **Email:** <Oluwafemiegbanubi@gmail.com>  
-- 
-
----
-
-> “Cybersecurity is not only a discipline, it is a mindset.”
-
-Thank you for visiting my GitHub. If a repository helps your work, please consider leaving a star.
+- **Email:** <egbanubifemi@gmail.com>  
+ ...
