@@ -1,80 +1,47 @@
-# Oluwafemi Egbanubi – Cybersecurity Analyst
+# Hi, I’m Oluwafemi Egbanubi
 
-👋 Hello! I’m **Oluwafemi Egbanubi**, a results-driven Cybersecurity professional with over ten years of experience protecting cloud and on-prem infrastructures. My work focuses on threat detection, vulnerability management, and continuous security monitoring. Empowering organizations to build secure, compliant, and resilient cloud environments through structured program leadership and data-driven security operations. This repository gathers the lab projects and reference guides that demonstrate my technical depth and commitment to secure-by-design principles.
+### Technical Program & Project Management
+### Mission-Critical Infrastructure • Data Centers • Cloud Security • IAM
 
----
+I bring experience across telecom infrastructure delivery, service
+operations, and cybersecurity program and project management.
 
-## 🛡 Project Highlights
+My professional focus includes mission-critical infrastructure and
+data centers, cloud security, identity and access management, and
+operational resilience. I coordinate technical teams, business
+stakeholders, and service providers to deliver projects with clear
+scope, accountable ownership, and operational readiness.
 
-### Lab Foundations
-- **Virtual Home Lab Build** – Multi-VM environment (Windows, Linux, pfSense, Security Onion)
+## Areas of Focus
 
+- **Mission-Critical Infrastructure & Data Centers:** Infrastructure
+  delivery, power and cooling dependencies, commissioning coordination,
+  cutover planning, and operational handover.
+- **Cloud Security:** Cloud security project coordination,
+  risk assessment, remediation, and governance.
+- **Identity & Access Management:** IAM delivery, access governance,
+  least privilege, access reviews, and identity lifecycle coordination.
+- **Cybersecurity Governance:** Vulnerability governance,
+  risk treatment, security controls, and compliance readiness.
+- **Telecom & Service Operations:** Site deployments, vendor
+  performance, service continuity, and operational acceptance.
+- **Program Management:** Scope, schedules, dependencies, budgets,
+  risks, change control, and executive reporting.
 
-### Identity & Access Security
-- **Active Directory Deployment & Hardening** – Secure domain controller with baseline GPOs
+## Professional Background
 
-### Vulnerability & Risk Management
-- **Security Policy Development** – Acceptable-Use, Password, and Access-Control policies
-- **Vulnerability Assessment** – Network and web application scans with Nmap, Nessus and Nikto
-- **Risk Assessment & CIA Impact Mapping** – Risk matrix and treatment recommendations
+- **STAG Innovations:** Cybersecurity and IT program/project management.
+- **American Tower:** Regional security and service delivery management.
+- **Huawei Technologies:** Telecom and enterprise program delivery.
 
-### Detection & Monitoring
-- **Network Monitoring & Log Analysis** – Dashboards in Security Onion and Splunk
-- **Linux Permissions Audit** – Identifying and correcting misconfigurations and SUID issues
-- **Suricata IDS Deployment** – Signature-based intrusion detection
-- **Honeypot Deployment** – Capturing and analysing attacker behaviour
+## Project Portfolio
 
-### Threat Hunting & Framework Mapping
-- **MITRE ATT&CK Hunt Sprint** – ATT&CK Navigator-driven queries and detections
+Explore my personal security and infrastructure projects:
 
-### Social Engineering Defence
-- **Phishing Attack Simulation** – Campaign metrics via GoPhish or Zphisher
-- **Phishing Email Forensics** – Header analysis with SPF, DKIM, DMARC validation
+[View my project portfolio](https://github.com/EgbaFemi/Oluwafemi)
 
-### Offensive Security Simulations
-- **SQL Injection & DDoS Simulation** – Exploitation with sqlmap and low-volume slowloris tests
+## Connect
 
-### Malware & Exploit Analysis
-- **Malware Static & Dynamic Analysis** – strings, PE-Studio, Cuckoo sandbox
-- **Malicious PDF Analysis** – Payload extraction and script dissection
-
-
-
----
-
-## Tools & Skills
-
-- VirtualBox, VMware, AWS Free Tier
-- Wireshark, Nmap, Nessus, Nikto, sqlmap
-- Wazuh, Suricata, Elastic Stack, Splunk
-- Kali Linux, Windows Server, Ubuntu, pfSense
-- Git, GitHub, Markdown documentation
-
----
-
-## Featured Repositories
-
-| Folder | Description | Link |
-|--------|-------------|------|
-| 01-home-lab | Building a multi-VM cybersecurity lab | [View Repo](#) |
-| 02-ad-deployment | Installing and hardening Active Directory | [View Repo](#) |
-| 03-ad-enum-privesc | Enumerating and escalating privileges in AD | [View Repo](#) |
-| 04-security-policy-dev | Crafting AUP, password, and ACL policies | [View Repo](#) |
-| 05-vulnerability-assessment | Network and web-app scanning with Nessus and Nmap | [View Repo](#) |
-| 06-network-monitoring | Security Onion and Splunk dashboards | [View Repo](#) |
-| 07-risk-assessment | CIA impact mapping and risk matrix | [View Repo](#) |
-| 08-mitre-threat-hunt | ATT&CK-aligned threat hunting scripts | [View Repo](#) |
-| 09-phishing-simulation | Lab-based phishing campaign and metrics | [View Repo](#) |
-| 10-phishing-email-forensics | Email header and domain analysis toolkit | [View Repo](#) |
-| 11-linux-permissions-audit | Identifying world-writable and SUID files | [View Repo](#) |
-| 12-sqli-ddos-sim | SQLi exploitation and DDoS alert tuning | [View Repo](#) |
-| 13-malware-analysis | Static and dynamic malware triage | [View Repo](#) |
-|
-
----
-
-## Contact
-
-- **LinkedIn:** <www.linkedin.com/in/oluwafemi-egbanubi>  
-- **Email:** <egbanubifemi@gmail.com>  
- ...
+- **Location:** Dallas–Fort Worth, Texas
+- **Opportunities:** Remote or hybrid within DFW
+- **LinkedIn:** [Oluwafemi Egbanubi](https://www.linkedin.com/in/oluwafemi-egbanubi/)
